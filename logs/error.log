@@ -1,0 +1,13 @@
+2022/09/06 17:58:11 [emerg] 20892#18700: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2022/09/06 17:58:49 [emerg] 21252#8116: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2022/09/07 16:06:08 [notice] 5996#20240: using inherited sockets from "C:\Users\v802\Downloads\nginx-1.22.0\nginx-1.22.0"
+2022/09/07 16:06:08 [emerg] 5996#20240: invalid socket number "C:\Users\v802\Downloads\nginx-1.22.0\nginx-1.22.0" in NGINX environment variable, ignoring the rest of the variable
+2022/09/07 16:06:08 [emerg] 5996#20240: invalid socket number "C:\Users\v802\Downloads\nginx-1.22.0\nginx-1.22.0" in NGINX environment variable, ignoring
+2022/09/07 16:06:08 [emerg] 5996#20240: bind() to 0.0.0.0:80 failed (10013: An attempt was made to access a socket in a way forbidden by its access permissions)
+2022/09/07 16:09:39 [notice] 5736#15624: using inherited sockets from "C:\Users\v802\Downloads\nginx-1.22.0\nginx-1.22.0"
+2022/09/07 16:09:39 [emerg] 5736#15624: invalid socket number "C:\Users\v802\Downloads\nginx-1.22.0\nginx-1.22.0" in NGINX environment variable, ignoring the rest of the variable
+2022/09/07 16:09:39 [emerg] 5736#15624: invalid socket number "C:\Users\v802\Downloads\nginx-1.22.0\nginx-1.22.0" in NGINX environment variable, ignoring
+2022/09/07 16:09:40 [notice] 20824#15296: using inherited sockets from "C:\Users\v802\Downloads\nginx-1.22.0\nginx-1.22.0"
+2022/09/07 16:09:40 [emerg] 20824#15296: invalid socket number "C:\Users\v802\Downloads\nginx-1.22.0\nginx-1.22.0" in NGINX environment variable, ignoring the rest of the variable
+2022/09/07 16:09:40 [emerg] 20824#15296: invalid socket number "C:\Users\v802\Downloads\nginx-1.22.0\nginx-1.22.0" in NGINX environment variable, ignoring
+2022/09/07 16:09:54 [error] 20824#18336: *1 CreateFile() "C:\Users\v802\Downloads\nginx-1.22.0\nginx-1.22.0/html/favicon.ico" failed (2: The system cannot find the file specified), client: 172.23.4.254, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "172.23.4.254:81", referrer: "http://172.23.4.254:81/"

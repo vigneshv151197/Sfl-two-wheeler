@@ -1,0 +1,271 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:80             DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:81             DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:135            DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:445            DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:1801           DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:2103           DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:2105           DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:2107           DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:3389           DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:5040           DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:5473           DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:5475           DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:5800           DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:5900           DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:7680           DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:8080           DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:8733           DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:9007           DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:21112          DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:38863          DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:38875          DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:49460          DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:49461          DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:49465          DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:49466          DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:49479          DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:49518          DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:49527          DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:49664          DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:49665          DIGITAL-0129:0         LISTENING
+  TCP    0.0.0.0:49666          DIGITAL-0129:0         LISTENING
+  TCP    127.0.0.1:5354         DIGITAL-0129:0         LISTENING
+  TCP    127.0.0.1:15482        DIGITAL-0129:0         LISTENING
+  TCP    127.0.0.1:18313        DIGITAL-0129:0         LISTENING
+  TCP    127.0.0.1:49467        DIGITAL-0129:55552     ESTABLISHED
+  TCP    127.0.0.1:50225        DIGITAL-0129:50226     ESTABLISHED
+  TCP    127.0.0.1:50226        DIGITAL-0129:50225     ESTABLISHED
+  TCP    127.0.0.1:50227        DIGITAL-0129:50228     ESTABLISHED
+  TCP    127.0.0.1:50228        DIGITAL-0129:50227     ESTABLISHED
+  TCP    127.0.0.1:52795        DIGITAL-0129:52801     FIN_WAIT_2
+  TCP    127.0.0.1:52795        DIGITAL-0129:52802     FIN_WAIT_2
+  TCP    127.0.0.1:52801        DIGITAL-0129:52795     CLOSE_WAIT
+  TCP    127.0.0.1:52802        DIGITAL-0129:52795     CLOSE_WAIT
+  TCP    127.0.0.1:53234        DIGITAL-0129:55296     TIME_WAIT
+  TCP    127.0.0.1:53503        DIGITAL-0129:45691     SYN_SENT
+  TCP    127.0.0.1:53504        DIGITAL-0129:45691     SYN_SENT
+  TCP    127.0.0.1:54274        DIGITAL-0129:54275     ESTABLISHED
+  TCP    127.0.0.1:54275        DIGITAL-0129:54274     ESTABLISHED
+  TCP    127.0.0.1:54279        DIGITAL-0129:54280     ESTABLISHED
+  TCP    127.0.0.1:54280        DIGITAL-0129:54279     ESTABLISHED
+  TCP    127.0.0.1:55053        DIGITAL-0129:0         LISTENING
+  TCP    127.0.0.1:55296        DIGITAL-0129:0         LISTENING
+  TCP    127.0.0.1:55296        DIGITAL-0129:53202     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53211     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53215     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53218     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53219     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53220     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53224     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53225     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53228     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53230     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53231     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53238     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53243     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53246     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53247     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53249     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53251     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53254     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53256     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53263     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53269     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53274     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53280     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53284     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53300     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53302     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53319     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53321     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53324     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53328     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53336     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53351     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53360     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53368     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53379     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53387     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53390     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53392     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53394     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53403     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53404     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53409     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53413     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53418     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53422     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53431     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53433     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53434     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53441     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53442     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53459     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53461     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53465     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53475     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53491     TIME_WAIT
+  TCP    127.0.0.1:55296        DIGITAL-0129:53499     TIME_WAIT
+  TCP    127.0.0.1:55552        DIGITAL-0129:0         LISTENING
+  TCP    127.0.0.1:55552        DIGITAL-0129:49467     ESTABLISHED
+  TCP    127.0.0.1:55552        DIGITAL-0129:65452     ESTABLISHED
+  TCP    127.0.0.1:65452        DIGITAL-0129:55552     ESTABLISHED
+  TCP    172.23.4.254:139       DIGITAL-0129:0         LISTENING
+  TCP    172.23.4.254:3389      192.169.0.216:42980    ESTABLISHED
+  TCP    172.23.4.254:7680      RETAILNEW-0044:59278   ESTABLISHED
+  TCP    172.23.4.254:49475     ec2-3-6-189-236:https  ESTABLISHED
+  TCP    172.23.4.254:49989     LNDBASIC-0019:ms-do    ESTABLISHED
+  TCP    172.23.4.254:50052     162.247.241.14:https   ESTABLISHED
+  TCP    172.23.4.254:50158     a-0003:https           CLOSE_WAIT
+  TCP    172.23.4.254:50160     maa05s26-in-f10:https  CLOSE_WAIT
+  TCP    172.23.4.254:50162     maa05s12-in-f3:https   CLOSE_WAIT
+  TCP    172.23.4.254:50701     maa05s24-in-f3:https   ESTABLISHED
+  TCP    172.23.4.254:50820     maa05s20-in-f14:https  TIME_WAIT
+  TCP    172.23.4.254:50975     ec2-13-235-111-249:https  ESTABLISHED
+  TCP    172.23.4.254:51058     ec2-13-235-197-157:https  ESTABLISHED
+  TCP    172.23.4.254:51162     a23-58-26-16:https     CLOSE_WAIT
+  TCP    172.23.4.254:51515     a104-120-69-200:https  CLOSE_WAIT
+  TCP    172.23.4.254:51598     lb-140-82-112-26-iad:https  ESTABLISHED
+  TCP    172.23.4.254:51621     AXLE-HCM-0049:ms-do    ESTABLISHED
+  TCP    172.23.4.254:51622     SVSCHNDT2285:ms-do     ESTABLISHED
+  TCP    172.23.4.254:51624     CHITS-0005:ms-do       ESTABLISHED
+  TCP    172.23.4.254:51625     RETAILNEW-0055:ms-do   ESTABLISHED
+  TCP    172.23.4.254:51626     AXLE-HCM-0058:ms-do    ESTABLISHED
+  TCP    172.23.4.254:51628     ZIVAVDI-0011:ms-do     ESTABLISHED
+  TCP    172.23.4.254:51629     172.23.2.152:ms-do     ESTABLISHED
+  TCP    172.23.4.254:51630     HCMS-0004:ms-do        ESTABLISHED
+  TCP    172.23.4.254:51635     BIAMUM-0015:ms-do      ESTABLISHED
+  TCP    172.23.4.254:52006     a23-49-76-14:https     CLOSE_WAIT
+  TCP    172.23.4.254:52686     maa03s38-in-f10:https  TIME_WAIT
+  TCP    172.23.4.254:52733     a23-9-31-5:https       ESTABLISHED
+  TCP    172.23.4.254:52889     BIAMUM-0015:ms-do      ESTABLISHED
+  TCP    172.23.4.254:52987     maa03s29-in-f3:https   ESTABLISHED
+  TCP    172.23.4.254:53078     maa05s13-in-f10:https  ESTABLISHED
+  TCP    172.23.4.254:53122     maa05s18-in-f4:https   ESTABLISHED
+  TCP    172.23.4.254:53142     maa05s14-in-f14:https  ESTABLISHED
+  TCP    172.23.4.254:53143     maa05s05-in-f14:https  ESTABLISHED
+  TCP    172.23.4.254:53144     maa05s17-in-f3:https   ESTABLISHED
+  TCP    172.23.4.254:53169     maa05s26-in-f14:https  ESTABLISHED
+  TCP    172.23.4.254:53216     maa05s16-in-f3:https   TIME_WAIT
+  TCP    172.23.4.254:53255     maa03s26-in-f3:https   ESTABLISHED
+  TCP    172.23.4.254:53262     maa03s38-in-f10:https  ESTABLISHED
+  TCP    172.23.4.254:53270     maa05s15-in-f2:https   ESTABLISHED
+  TCP    172.23.4.254:53273     maa03s42-in-f2:https   ESTABLISHED
+  TCP    172.23.4.254:53279     13.107.21.200:https    CLOSE_WAIT
+  TCP    172.23.4.254:53290     131.253.33.254:https   ESTABLISHED
+  TCP    172.23.4.254:53292     117.18.232.200:https   ESTABLISHED
+  TCP    172.23.4.254:53295     52.113.196.254:https   ESTABLISHED
+  TCP    172.23.4.254:53297     204.79.197.222:https   ESTABLISHED
+  TCP    172.23.4.254:53307     a23-9-72-100:https     ESTABLISHED
+  TCP    172.23.4.254:53317     104.18.1.80:https      ESTABLISHED
+  TCP    172.23.4.254:53337     maa03s38-in-f10:https  TIME_WAIT
+  TCP    172.23.4.254:53386     ec2-52-220-103-98:https  TIME_WAIT
+  TCP    172.23.4.254:53408     maa05s16-in-f3:https   ESTABLISHED
+  TCP    172.23.4.254:53415     maa03s35-in-f1:https   ESTABLISHED
+  TCP    172.23.4.254:53416     maa03s47-in-f10:https  ESTABLISHED
+  TCP    172.23.4.254:53417     maa03s47-in-f10:https  ESTABLISHED
+  TCP    172.23.4.254:53494     20.54.24.148:https     ESTABLISHED
+  TCP    172.23.4.254:53784     a1370dc23e25e46ce:https  ESTABLISHED
+  TCP    172.23.4.254:54315     ec2-35-83-91-138:https  ESTABLISHED
+  TCP    172.23.4.254:55958     host-119-252-159-179:https  ESTABLISHED
+  TCP    172.23.4.254:56151     ec2-54-85-64-204:https  ESTABLISHED
+  TCP    172.23.4.254:56214     104.26.3.186:https     ESTABLISHED
+  TCP    172.23.4.254:57687     20.198.119.84:https    ESTABLISHED
+  TCP    172.23.4.254:59472     SGIVDI-0072:ms-do      ESTABLISHED
+  TCP    172.23.4.254:62090     GLOBALDC:microsoft-ds  ESTABLISHED
+  TCP    172.23.4.254:63519     maa05s18-in-f14:https  ESTABLISHED
+  TCP    172.23.4.254:63632     maa03s37-in-f3:https   ESTABLISHED
+  TCP    172.23.4.254:63635     maa05s23-in-f10:https  ESTABLISHED
+  TCP    172.23.4.254:63730     maa05s23-in-f10:https  ESTABLISHED
+  TCP    172.23.4.254:63779     a104-69-151-200:https  CLOSE_WAIT
+  TCP    172.23.4.254:64402     a104-69-151-200:https  CLOSE_WAIT
+  TCP    172.23.4.254:64930     se-in-f188:5228        ESTABLISHED
+  TCP    172.23.4.254:65148     www:https              CLOSE_WAIT
+  TCP    [::]:80                DIGITAL-0129:0         LISTENING
+  TCP    [::]:135               DIGITAL-0129:0         LISTENING
+  TCP    [::]:445               DIGITAL-0129:0         LISTENING
+  TCP    [::]:1801              DIGITAL-0129:0         LISTENING
+  TCP    [::]:2103              DIGITAL-0129:0         LISTENING
+  TCP    [::]:2105              DIGITAL-0129:0         LISTENING
+  TCP    [::]:2107              DIGITAL-0129:0         LISTENING
+  TCP    [::]:3389              DIGITAL-0129:0         LISTENING
+  TCP    [::]:5800              DIGITAL-0129:0         LISTENING
+  TCP    [::]:5900              DIGITAL-0129:0         LISTENING
+  TCP    [::]:7680              DIGITAL-0129:0         LISTENING
+  TCP    [::]:8080              DIGITAL-0129:0         LISTENING
+  TCP    [::]:8733              DIGITAL-0129:0         LISTENING
+  TCP    [::]:9007              DIGITAL-0129:0         LISTENING
+  TCP    [::]:21112             DIGITAL-0129:0         LISTENING
+  TCP    [::]:38863             DIGITAL-0129:0         LISTENING
+  TCP    [::]:38875             DIGITAL-0129:0         LISTENING
+  TCP    [::]:49460             DIGITAL-0129:0         LISTENING
+  TCP    [::]:49461             DIGITAL-0129:0         LISTENING
+  TCP    [::]:49465             DIGITAL-0129:0         LISTENING
+  TCP    [::]:49466             DIGITAL-0129:0         LISTENING
+  TCP    [::]:49479             DIGITAL-0129:0         LISTENING
+  TCP    [::]:49518             DIGITAL-0129:0         LISTENING
+  TCP    [::]:49527             DIGITAL-0129:0         LISTENING
+  TCP    [::]:49664             DIGITAL-0129:0         LISTENING
+  TCP    [::]:49665             DIGITAL-0129:0         LISTENING
+  TCP    [::]:49666             DIGITAL-0129:0         LISTENING
+  TCP    [::1]:15482            DIGITAL-0129:0         LISTENING
+  UDP    0.0.0.0:123            *:*                    
+  UDP    0.0.0.0:500            *:*                    
+  UDP    0.0.0.0:3389           *:*                    
+  UDP    0.0.0.0:4500           *:*                    
+  UDP    0.0.0.0:5050           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5353           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:5474           *:*                    
+  UDP    0.0.0.0:50686          *:*                    
+  UDP    0.0.0.0:50687          *:*                    
+  UDP    0.0.0.0:51734          *:*                    
+  UDP    0.0.0.0:51735          *:*                    
+  UDP    0.0.0.0:56278          *:*                    
+  UDP    0.0.0.0:56598          *:*                    
+  UDP    0.0.0.0:56599          *:*                    
+  UDP    0.0.0.0:57297          *:*                    
+  UDP    0.0.0.0:57298          *:*                    
+  UDP    0.0.0.0:59968          *:*                    
+  UDP    0.0.0.0:59969          *:*                    
+  UDP    0.0.0.0:64934          *:*                    
+  UDP    0.0.0.0:64935          *:*                    
+  UDP    0.0.0.0:65009          *:*                    
+  UDP    0.0.0.0:65010          *:*                    
+  UDP    127.0.0.1:1900         *:*                    
+  UDP    127.0.0.1:52819        *:*                    
+  UDP    127.0.0.1:53420        *:*                    
+  UDP    127.0.0.1:54573        *:*                    
+  UDP    127.0.0.1:55076        *:*                    
+  UDP    127.0.0.1:58086        *:*                    
+  UDP    127.0.0.1:58293        *:*                    
+  UDP    127.0.0.1:58529        *:*                    
+  UDP    127.0.0.1:61374        *:*                    
+  UDP    127.0.0.1:63430        *:*                    
+  UDP    172.23.4.254:137       *:*                    
+  UDP    172.23.4.254:138       *:*                    
+  UDP    172.23.4.254:1900      *:*                    
+  UDP    172.23.4.254:2177      *:*                    
+  UDP    172.23.4.254:5353      *:*                    
+  UDP    172.23.4.254:53419     *:*                    
+  UDP    [::]:123               *:*                    
+  UDP    [::]:500               *:*                    
+  UDP    [::]:3389              *:*                    
+  UDP    [::]:4500              *:*                    
+  UDP    [::]:50687             *:*                    
+  UDP    [::]:51735             *:*                    
+  UDP    [::]:56279             *:*                    
+  UDP    [::]:56599             *:*                    
+  UDP    [::]:57298             *:*                    
+  UDP    [::]:59969             *:*                    
+  UDP    [::]:64935             *:*                    
+  UDP    [::]:65010             *:*                    
+  UDP    [::1]:1900             *:*                    
+  UDP    [::1]:5353             *:*                    
+  UDP    [::1]:53418            *:*                    
